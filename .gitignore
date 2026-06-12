@@ -14,8 +14,8 @@ env/
 data/raw/*.xlsx
 data/raw/*.csv
 data/raw/*.zip
-data/processed/
-data/features/
+
+
 
 # Models
 models/*.joblib
