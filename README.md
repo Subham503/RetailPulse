@@ -12,7 +12,7 @@
 
 **Built during Data Science & Analytics Internship @ [Zidio Development](https://zidio.in)**
 
-[🚀 Live Demo](#quick-start) • [📊 Dashboard](#dashboard) • [🔌 API Docs](#api-endpoints) • [📈 Results](#results)
+[🚀 Live Demo](https://retailpulse-subham-sahu.streamlit.app/)• [📊 Dashboard](#dashboard) • [🔌 API Docs](#api-endpoints) • [📈 Results](#results)
 
 </div>
 
